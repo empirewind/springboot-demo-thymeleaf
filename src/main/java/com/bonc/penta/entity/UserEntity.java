@@ -9,7 +9,7 @@
  * 修改内容：
  */
 
-package com.bonc.yuan.entity;
+package com.bonc.penta.entity;
 
 /**
  * 用户实体类

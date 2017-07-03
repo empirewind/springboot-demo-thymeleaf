@@ -9,13 +9,13 @@
  * 修改内容：
  */
 
-package com.bonc.yuan.service.impl;
+package com.bonc.penta.service.impl;
 
 import org.springframework.stereotype.Service;
 
 import com.alibaba.fastjson.JSON;
-import com.bonc.yuan.entity.UserEntity;
-import com.bonc.yuan.service.WelcomeService;
+import com.bonc.penta.entity.UserEntity;
+import com.bonc.penta.service.WelcomeService;
 
 /**
  * WelcomeService的实现类

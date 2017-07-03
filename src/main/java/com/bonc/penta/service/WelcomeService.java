@@ -9,7 +9,7 @@
  * 修改内容：
  */
 
-package com.bonc.yuan.service;
+package com.bonc.penta.service;
 
 /**
  * 〈一句话功能简述〉

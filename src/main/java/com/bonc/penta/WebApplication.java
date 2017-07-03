@@ -9,7 +9,7 @@
  * 修改内容：
  */
 
-package com.bonc.yuan;
+package com.bonc.penta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
