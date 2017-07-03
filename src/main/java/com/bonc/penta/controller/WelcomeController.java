@@ -9,17 +9,16 @@
  * 修改内容：
  */
 
-package com.bonc.yuan.controller;
+package com.bonc.penta.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.bonc.yuan.service.WelcomeService;
+import com.bonc.penta.service.WelcomeService;
 
 /**
  * 〈一句话功能简述〉
